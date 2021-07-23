@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsubha454
-- 👀 I’m interested in Algo Trading
-- 🌱 I’m currently learning stock market and coding
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 📫 You can reach me on @gmail.com
 
 <!---
